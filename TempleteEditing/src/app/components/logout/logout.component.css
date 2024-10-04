@@ -1,0 +1,32 @@
+/* Basic form styling */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-check {
+    margin-bottom: 20px;
+}
+
+/* Styling logout button */
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #fff;
+    margin-left: 10px;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+/* Optional: Centering the form */
+form {
+    max-width: 300px;
+    max-height: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #e3e3e3;
+    border-radius: 8px;
+    align:Centering;
+}
